@@ -19,17 +19,6 @@ LIVE SITE - [Coursion](https://coursion-9faf6.web.app/)
 
 ---
 
-## 🌐 Client Side
-
-CLIENT SIDE REPO - [Coursion Client](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-moshiurrahmandeap11.git)
-
----
-## 🌐 Server Side
-
-SERVER SIDE REPO - [Coursion Server](https://github.com/Programming-Hero-Web-Course4/b11a11-server-side-moshiurrahmandeap11)
-
----
-
 ## ✨ Key Features
 
 - Add, edit, and manage courses with detailed info
